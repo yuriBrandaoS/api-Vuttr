@@ -1,0 +1,11 @@
+{
+  "name": "api-vuttr",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuri Brandão",
+  "license": "ISC"
+}
